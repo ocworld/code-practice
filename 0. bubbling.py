@@ -1,4 +1,5 @@
 # Bubbling
+# https://school.programmers.co.kr/learn/courses/30/lessons/120956
 
 def is_possible(item, avails) -> bool:
     if len(avails) == 0:
