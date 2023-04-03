@@ -1,2 +1,2 @@
-# code-practice
-code-practice
+# coding-practice
+coding-practice
